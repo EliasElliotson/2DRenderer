@@ -5,7 +5,8 @@
   "main": "public/index.html",
   "type": "module",
   "scripts": {
-    "start": "npx vite public/"
+    "start": "npx vite public/",
+    "start:docs": "npx vite docs/"
   },
   "author": "Elias Elliotson",
   "license": "ISC",
