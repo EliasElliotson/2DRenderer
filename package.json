@@ -1,0 +1,15 @@
+{
+  "name": "2d-renderer",
+  "version": "0.0.0",
+  "description": "A simplified api + premade project for Pixi.js",
+  "main": "public/index.html",
+  "type": "module",
+  "scripts": {
+    "start": "npx vite public/"
+  },
+  "author": "Elias Elliotson",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.10"
+  }
+}
